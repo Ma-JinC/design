@@ -1,7 +1,3 @@
 # designecho "# design" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/alexbb210/design.git
-git push -u origin main
+团队名称
+小组成员：李元卿，马金晨，张时轮
