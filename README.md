@@ -1,5 +1,6 @@
 # designecho "# design" >> README.md
-<p>团队名称第七小队</p>
-<p>小组成员：李元卿，马金晨，张时轮</p>
-<p>小组项目：水下机器人</p>
-<p>https://github.com/alexbb210/design/invitations</p>
+<p>Team introduction:</p>
+      <p>Team member：Yuanqing Li，Jinchen Ma，Shilun zhang</p>
+      <p>Team project：underwater robot</p>
+      <p>The leader teacher:Kang zhang</p>
+      <p>Our mentor's introduction website:https://teoec.dlmu.edu.cn/info/1062/3544.htm</p>
